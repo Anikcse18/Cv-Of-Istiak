@@ -36,8 +36,8 @@ A **passionate Flutter Developer** with experience in building **scalable, high-
 
 ## 📬 Let's Connect
 
-💼 **LinkedIn**: [linkedin.com/in/honeycse20/](https://www.linkedin.com/in/honeycse20/)  
-📧 **Email**: honeycse472@gmail.com  
+💼 **LinkedIn**: [linkedin.com/in/istiakcse/](https://www.linkedin.com/in/istiakcse/)  
+📧 **Email**: istiakjaved.nubtk.cse@gmail.com  
 🌐 **Portfolio**: [honeycse.me](https://honeycse18.github.io/Ummay_Honey/)
 
 ---
