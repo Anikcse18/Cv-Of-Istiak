@@ -1,4 +1,4 @@
-# 🚀 Flutter Developer Portfolio
+# 🚀 Front-end Developer Portfolio
 
 ## 👋 Hi, I'm ISTIAK JAVED
 
