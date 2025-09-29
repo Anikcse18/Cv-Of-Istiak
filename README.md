@@ -38,7 +38,7 @@ A **passionate Flutter Developer** with experience in building **scalable, high-
 
 💼 **LinkedIn**: [linkedin.com/in/istiakcse/](https://www.linkedin.com/in/istiakcse/)  
 📧 **Email**: istiakjaved.nubtk.cse@gmail.com  
-🌐 **Portfolio**: [honeycse.me](https://anikcse18.github.io/Cv-Of-Istiak/)
+🌐 **Portfolio**: [istiakjaved.me](https://anikcse18.github.io/Cv-Of-Istiak/)
 
 ---
 
