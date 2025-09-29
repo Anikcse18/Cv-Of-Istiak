@@ -1,6 +1,6 @@
 # 🚀 Flutter Developer Portfolio
 
-## 👋 Hi, I'm Syeda Ummay Honey
+## 👋 Hi, I'm ISTIAK JAVED
 
 A **passionate Flutter Developer** with experience in building **scalable, high-performance mobile applications**. I specialize in crafting **feature-rich, user-friendly apps** with seamless UI/UX, API integrations, and real-time functionalities.
 
